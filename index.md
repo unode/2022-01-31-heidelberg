@@ -395,6 +395,12 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+  This workshop is designed to be run on your laptop.
+  First, you will need to download the data we use in the workshop.
+  Then, you need to install some software.
+  After following the instructions on this page, you should have everything you need to participate fully in the workshop!
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
