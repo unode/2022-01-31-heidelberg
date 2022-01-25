@@ -152,5 +152,7 @@ your operating system, and then follow the instructions to install
 
 * After installing R and RStudio, you need to install a few packages.
 Start RStudio by double-clicking the icon and then type:
-  `install.packages(c("tidyverse", "corrplot", "patchwork", "ggfortify"))`. You can also do this by going to Tools -> Install Packages and
+  `install.packages(c("tidyverse", "corrplot", "corrr", "hexbin", "patchwork", "ggfortify", "broom", "RSQLite", "BiocManager"))`.
+  You can also do this by going to Tools -> Install Packages and
   typing the names of the packages you want to install, separated by a comma.
+  Finally, install `ComplexHeatmap` from BioConductor using: `BiocManager::install("ComplexHeatmap")`
